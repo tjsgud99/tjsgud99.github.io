@@ -1,4 +1,4 @@
-# 나만의 웹사이트 제작
+# HTML과 CSS로 제작한 나만의 웹사이트
 
 ### RGB 색상표
 https://www.html-color-names.com/color-chart.php
